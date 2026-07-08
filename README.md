@@ -80,7 +80,7 @@ Root-cause breakdown of churn (competitor, dissatisfaction, price, attitude) and
 - Strengthen the **onboarding experience** (first 1–3 months) to reduce early churn
 - Investigate **competitive pricing** on Fiber Optic plans, the largest revenue source and highest-churn segment
 - Design targeted offers for **unmarried customers**, who show the highest churn propensity
-- Address the **root causes of churn** — competitor offers and dissatisfaction — through proactive retention outreach
+- Address the **root causes of churn** — competitor offers and dissatisfaction through proactive retention outreach
 
 ---
  [LinkedIn](https://www.linkedin.com/in/saqib-amin-31b1ba2a1/)
