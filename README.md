@@ -83,4 +83,5 @@ Root-cause breakdown of churn (competitor, dissatisfaction, price, attitude) and
 - Address the **root causes of churn** — competitor offers and dissatisfaction through proactive retention outreach
 
 ---
- [LinkedIn](https://www.linkedin.com/in/saqib-amin-31b1ba2a1/)
+ 🔗 [LinkedIn](https://www.linkedin.com/in/saqib-amin-31b1ba2a1/)
+
